@@ -30,16 +30,6 @@ As of now, casualty collection point (CCP) is rarely used. We are looking forwar
 
 Normally there would be different classes of medical personnel with different roles, but for now, we stick with a platoon medic, and 1 to 3 combat life savers.
 
-### Combat life saver (CLS)
-
-This soldier is part of the squad and as the name suggests this is probably the first one to arrive at a wounded soldier. His job is to stabilize the soldier as fast as possible, and make sure they are either good to go or are stable enough to be medevac'd.<br>
- 
-A CLS is primarily a rifleman, but with more advanced medical training than everyone else. Meaning, he can be a first responder on the battlefield, to try to save and stabilize colleagues, until the medic arrives on scene.
-
-Even with this training, the Combat Life Saver is not able to perform advanced medical procedures.
-
-One of the roles of the CLS, is to support the medic when asked to, and return to combat as quickly as possible.
-
 ### Medic
 
 This officer is part of the command structure and operates mostly behind the frontline. His primary job will be patching up soldiers back to full health so they are ready to be redeployed.
@@ -92,7 +82,7 @@ CPR by itself is not going to wake up an unconscious patient; a stable blood pre
 If a patient has no heartrate an invisible timer will start running, and you have 5 mins to get a heart rate going, or the patient dies.
 
 Due to our server settings, the best way to do CPR is to push epinephrine (adrenaline), then do CPR 3 times, then check again for pulse.<br>
-Epinephrine is administrable by CLS or medics only, and you shouldn't more than 3 consecutively (reset every two minutes, in case you need to administer more).
+Epinephrine is administrable by medics only, and you shouldn't more than 3 consecutively (reset every two minutes, in case you need to administer more).
 
 
 How to determine *Cardiac Arrest*<br>
@@ -131,7 +121,7 @@ But in a combat situation, time is of the essence, and that might need you to â€
 
 Limbs can be fractured. Velocity wounds, Avulsions and crush wounds usually occur at the same time. Fractures cause pain, increased weapon sway (when arms) or inability to jog or run forcing the player into a limp (when legs). Fractures in ACE3 are themselves not fatal and therefore are far lower on the priority list in regards to treatment. Focus on stabilizing the patient first, then once stable, call for the medic to assess and treat the fracture.
 
-Advanced fractures makes it a bit harder for medics and CLS to treat on the field.
+Advanced fractures makes it a bit harder for medics and to treat on the field.
 
 There is now 3 types of fractures, depicted below: 
 For two of them, an IV of Lorazepam (if the patient is conscious), and then Etomidate (reapply every 90 seconds) is necessary to relieve the pain caused by the treatment of the fracture. (The simple fracture just need a dose of morphine)
@@ -263,7 +253,7 @@ For all non-medical personnel we recommend to take the following medical supplie
 | 1x Painkillers |
 | 15x Packing    |
 
-Additional supplies can be provided by a resupply or by the CLS/medic.
+Additional supplies can be provided by a resupply or by the medic.
 
 
 ### Medic
@@ -316,33 +306,3 @@ Additional supplies can be provided by a resupply or by the CLS/medic.
 |                       | Earplugs            |                     |
 
 
-### CLS
-
-| Category              | Contents            |                     |
-| --------------------- | ------------------- | ------------------- |
-| Primary weapon        | 5.56 AR             |                     |
-| Primary ammo          | 30rnd 5.56 x 8      |                     |
-| Optic magnification   | 1x-2x               |                     |
-| Secondary weapon      | Pistol              |                     |
-| Secondary ammo        | Pistol mag x 2      |                     |
-|                       |                     |                     |
-| Throwables/explosives | *Day only*          | *Night Only*        |
-|                       | 3x white smokes     | 2-4x green Chemlight|
-|                       | 2x yellow smokes    | Yellow hand flare   |
-|                       |                     |                     |
-| Medical               | 40x Packing         |                     |
-|                       | 4x Tourniquets      |                     |
-|                       | 1x Painkiller box   |                     |
-|                       | 8x Morphine         |                     |
-|                       | 4x Epinephrine      |                     |
-|                       | 5x 500ml saline     |                     |
-|                       | 2x 1000ml saline    |                     |
-|                       | 8x 16g IV           |                     |
-|                       | 4x Guedel tubes     |                     |
-|                       | 2x Pulse oximeter   |                     |
-|                       | 1x 250ml saline     |                     |
-|                       |                     |                     |
-| Radio                 | 2x AN-343           |                     |
-|                       |                     |                     |
-| Misc                  | 2 Cable ties        | IR strobe           |
-|                       | Earplugs            |                     |

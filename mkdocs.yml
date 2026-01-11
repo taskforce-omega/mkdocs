@@ -31,12 +31,11 @@ nav:
   - Intro: index.md
   - Basics: basics.md
   - TFO's Rulebook: rulebook.md
-  - Our team: team.md
   - Ranks: ranks.md
   - Role Guides:
     - Mission maker: RoleGuide/MM.md    
     - Platoon leader: RoleGuide/pltleader.md    
-    - Medic + CLS: RoleGuide/medic.md
+    - Medic: RoleGuide/medic.md
     - JTAC/FO : RoleGuide/jtac.md
     - Squad leader: RoleGuide/sql.md
     - Rifleman + LAT: RoleGuide/rifleman.md
@@ -68,4 +67,4 @@ extra_css:
   - stylesheets/extra.css
 
 
-copyright: Copyright &copy; 2016 - 2024 Task Force Omega - <i>Together we prevail</i>
+copyright: Copyright &copy; 2016 - 2026 Task Force Omega - <i>Together we prevail</i>
